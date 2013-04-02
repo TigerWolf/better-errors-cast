@@ -1,3 +1,5 @@
+## Normal Rails Errors
+
 Rails errors messages are pretty ugly. Let me show you.
 
 ### Demo
